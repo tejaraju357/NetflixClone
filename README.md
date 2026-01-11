@@ -1,12 +1,15 @@
-# React + Vite
+🧩 React Frontend Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend clone built with React to practice modern UI development and component-based architecture. The project focuses on recreating the visual design, layout structure, and user interactions of a real-world application.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Modular React components
 
-## Expanding the ESLint configuration
+Responsive UI using CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clean folder structure
+
+Scalable and maintainable codebase
+
+Ideal for learning and demonstrating frontend development skills using React.
